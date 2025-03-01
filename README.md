@@ -1,4 +1,5 @@
 # MCP Web Research Server
+[![smithery badge](https://smithery.ai/badge/@chuanmingliu/mcp-webresearch)](https://smithery.ai/server/@chuanmingliu/mcp-webresearch)
 
 A Model Context Protocol (MCP) server for web research. 
 
@@ -20,6 +21,15 @@ Bring real-time info into Claude and easily research any topic.
 
 First, ensure you've downloaded and installed the [Claude Desktop app](https://claude.ai/download) and you have npm installed.
 
+### Installing via Smithery
+
+To install mcp-webresearch for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@chuanmingliu/mcp-webresearch):
+
+```bash
+npx -y @smithery/cli install @chuanmingliu/mcp-webresearch --client claude
+```
+
+### Installing Manually
 Next, add this entry to your `claude_desktop_config.json` (on Mac, found at `~/Library/Application\ Support/Claude/claude_desktop_config.json`):
 
 ```json
