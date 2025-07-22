@@ -4,6 +4,10 @@ A Model Context Protocol (MCP) server for web research.
 
 Bring real-time info into Claude and easily research any topic.
 
+<a href="https://glama.ai/mcp/servers/@chuanmingliu/mcp-webresearch">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@chuanmingliu/mcp-webresearch/badge" alt="Web Research Server MCP server" />
+</a>
+
 ## Features
 
 - Google search integration
@@ -128,4 +132,4 @@ MIT
 
 ## Author
 
-[mzxrai](https://github.com/mzxrai) 
+[mzxrai](https://github.com/mzxrai)
